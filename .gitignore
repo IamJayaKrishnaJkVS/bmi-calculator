@@ -143,5 +143,4 @@ cython_debug/
 *.JPEG
 *.png
 *.PNG
-*.h5
 .idea/
